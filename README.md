@@ -29,23 +29,24 @@ The core of the project is a Convolutional Neural Network (CNN) optimized for fe
 - **Environment:** Anaconda, VS Code
 
 ---
-
 ## ⚙️ Installation & Local Setup
 
 1. **Clone the repository:**
 ```bash
-git clone [https://github.com/EstelaRamic/fashion-mnist-streamlit.git](https://github.com/EstelaRamic/fashion-mnist-streamlit.git)
+git clone https://github.com/EstelaRamic/fashion-mnist-streamlit.git
 cd fashion-mnist-streamlit
-
+````
 Install the required packages:
-Bash
+```bash
 pip install -r requirements.txt
-
+````
 Run the Streamlit app:
-Bash
+ ```bash
 streamlit run app.py
-
+````
 🤝 Contact & Freelance Inquiries
 Looking for a specialized Data Scientist / Machine Learning Engineer to build custom computer vision pipelines or deploy AI models into production? Let's connect!
 
 Available for Freelance Projects on Upwork
+
+GitHub: EstelaRamic
