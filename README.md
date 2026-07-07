@@ -10,6 +10,7 @@ This repository demonstrates the development, optimization, and evaluation of De
 
 * `app.py` - The baseline Streamlit web application utilizing a simple 1-layer CNN model.
 * `app_better.py` - The advanced Streamlit web application featuring a deeper CNN with optimization.
+* `model_obuce.pth` - Saved PyTorch model weights after 5 epochs of training in Google Colab.
 * `model_obuce_napredni.pth` - Saved PyTorch model weights after 15 epochs of training in Google Colab.
 * `requirements.txt` - Configuration file listing all necessary Python dependencies.
 
