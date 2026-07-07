@@ -1,5 +1,5 @@
-```text
   streamlit
   torch
   torchvision
   pillow
+  
